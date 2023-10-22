@@ -1,0 +1,3 @@
+https://github.com/Sampilmoriba/projet6-Planty.git
+
+un lien vers le repository GitHub du site WordPress.

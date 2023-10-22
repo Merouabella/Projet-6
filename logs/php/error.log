@@ -1,0 +1,6 @@
+[22-Oct-2023 19:16:14 UTC] PHP Warning:  Undefined variable $qsid in /Users/meroua16/Local Sites/meroua/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[22-Oct-2023 19:16:14 UTC] PHP Warning:  Undefined variable $qsid in /Users/meroua16/Local Sites/meroua/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[22-Oct-2023 19:16:14 UTC] PHP Warning:  Undefined variable $qsid in /Users/meroua16/Local Sites/meroua/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[22-Oct-2023 19:16:14 UTC] PHP Warning:  Undefined variable $qsid in /Users/meroua16/Local Sites/meroua/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[22-Oct-2023 19:16:14 UTC] PHP Warning:  Undefined variable $qsid in /Users/meroua16/Local Sites/meroua/app/public/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[22-Oct-2023 19:30:36 UTC] PHP Warning:  Undefined array key 0 in /Users/meroua16/Local Sites/meroua/app/public/wp-includes/class-wp-query.php on line 3619
