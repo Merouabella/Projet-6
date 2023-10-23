@@ -830,7 +830,7 @@ header :nth-child(3) {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        text-align: center;m
+        text-align: center;
         width: 100%;
     }
 
