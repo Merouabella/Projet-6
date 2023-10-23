@@ -477,7 +477,6 @@ input[type="submit"] {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 20px;
-    border-bottom: 1px solid white;
     padding-bottom: 50px;
     font-family: 'Syne';
     font-size: 38px;
@@ -641,7 +640,6 @@ input[type="submit"] {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    border-top: 1px solid #FFFFFF;
     width: 65%;
 }
 
@@ -653,7 +651,6 @@ input[type="submit"] {
 }
 
 .separation {
-    border-left: 1px solid #FFFFFF;
     padding-bottom: 620px;
     position: relative;
     top: -40px;
