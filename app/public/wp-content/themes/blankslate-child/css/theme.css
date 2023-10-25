@@ -477,6 +477,7 @@ input[type="submit"] {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 20px;
+    border-bottom: 1px solid white;
     padding-bottom: 50px;
     font-family: 'Syne';
     font-size: 38px;
