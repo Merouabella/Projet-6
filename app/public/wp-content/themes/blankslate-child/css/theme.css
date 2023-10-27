@@ -810,13 +810,16 @@ header :nth-child(3) {
 
     #text-commander{
         width: auto;
+        border-bottom: 1px solid white;
         margin-top: 25px;
         margin-bottom: 20px;
         border-bottom: 1px solid white;
 
     }
 
-    
+    .elementor-heading-title {
+        border-bottom: 1px solid white;
+    }
     
 
     #text-commander h2 {
